@@ -1,2 +1,2 @@
-# java-spring
-Proyecto spring base para cursos de proyecto
+# Lab01 Proyecto3
+Lab01 para curso de Proyecto 3
